@@ -1,0 +1,14 @@
+{
+  "database": {
+    "path": "/home/runner/workspace/autokkutu-node/data/path.sqlite"
+  },
+  "game": {
+    "defaultMode": "LastAndFirst",
+    "applyInitialLaw": true,
+    "useEndWord": true,
+    "useAttackWord": true,
+    "reuseAlreadyUsed": false,
+    "maxResults": 30
+  },
+  "logLevel": "INFO"
+}

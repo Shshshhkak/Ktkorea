@@ -1,0 +1,19 @@
+{
+  "name": "autokkutu-node",
+  "version": "1.0.0",
+  "description": "AutoKkutu - 한국어 끝말잇기 게임 자동화 봇 (Node.js 포팅)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js --demo",
+    "add-words": "node index.js --add-words",
+    "check-word": "node index.js --check-word"
+  },
+  "keywords": ["kkutu", "끄투", "끝말잇기", "korean", "word-game", "bot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sql.js": "^1.12.0",
+    "chalk": "^4.1.2"
+  }
+}
